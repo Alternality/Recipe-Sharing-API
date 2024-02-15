@@ -2,10 +2,10 @@ Recipe Sharing API
 
 Group Members:
 
-Mark Ulrich
-Samuel Mazon
-Mark Paulo Larraquel
-Jarnal Sin Jornadal
+-Mark Ulrich
+-Samuel Mazon
+-Mark Paulo Larraquel
+-Jarnal Sin Jornadal
 
 Overview:
 
